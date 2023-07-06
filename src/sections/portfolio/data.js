@@ -8,6 +8,8 @@ import Image7 from "../../assets/project7.png";
 import Image8 from "../../assets/project8.png";
 import Image9 from "../../assets/project9.png";
 import Image10 from "../../assets/project10.png";
+import Image11 from "../../assets/project11.png";
+
 
 const data = [
   {
@@ -51,6 +53,18 @@ const data = [
     github: "https://github.com/ali-attar78/faceBook",
     disableGit: false,
     disableDemo: true,
+  },
+
+  {
+    id: 11,
+    category: "frontend",
+    image: Image11,
+    title: "سایت گیم هاب   (React js)",
+    desc: "این سایت با استفاده از React.js و Chakra-Ui پیاده سازی شده است ، این سایت به شما این امکان را می‌دهد تا با استفاده از قابلیت‌های سرچ و فیلتر، به راحتی بازی‌های مورد علاقه خود را پیدا کنید.(برای مشاهده دموی سایت لطفا Vpn خود را روشن کنید)",
+    github: "https://github.com/ali-attar78/GameHub",
+    demo: "https://game-hub-ali-attar78.vercel.app/",
+    disableGit: false,
+    disableDemo: false,
   },
 
   {
