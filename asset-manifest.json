@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ali-Attar/static/css/main.d5a94ccf.css",
-    "main.js": "/Ali-Attar/static/js/main.7be2c25a.js",
+    "main.js": "/Ali-Attar/static/js/main.e34650c8.js",
     "static/media/project7.png": "/Ali-Attar/static/media/project7.1af3b4260cb46d1f502a.png",
     "static/media/project3.png": "/Ali-Attar/static/media/project3.c3ffaaa84d15ce5b1b4e.png",
     "static/media/project4.png": "/Ali-Attar/static/media/project4.826e2b038d884016e1e1.png",
@@ -9,7 +9,7 @@
     "static/media/project8.png": "/Ali-Attar/static/media/project8.fed54933a5cbd8f6047e.png",
     "static/media/project1.png": "/Ali-Attar/static/media/project1.7e2f118ebc086fdaa5c5.png",
     "static/media/project5.png": "/Ali-Attar/static/media/project5.3b55415ce07b579f9b17.png",
-    "static/media/cv.pdf": "/Ali-Attar/static/media/cv.03cdb182576318f91d69.pdf",
+    "static/media/cv.pdf": "/Ali-Attar/static/media/cv.eef52200be65e967c09c.pdf",
     "static/media/project9.png": "/Ali-Attar/static/media/project9.e8dd71369c0906686cdb.png",
     "static/media/header.jpg": "/Ali-Attar/static/media/header.167753d8e7419d990d6a.jpg",
     "static/media/project6.png": "/Ali-Attar/static/media/project6.e43b1f62b9970c4917b4.png",
@@ -43,10 +43,10 @@
     "static/media/IRANSansWeb_Black.woff2": "/Ali-Attar/static/media/IRANSansWeb_Black.5675118f6d08ebc3f1a7.woff2",
     "index.html": "/Ali-Attar/index.html",
     "main.d5a94ccf.css.map": "/Ali-Attar/static/css/main.d5a94ccf.css.map",
-    "main.7be2c25a.js.map": "/Ali-Attar/static/js/main.7be2c25a.js.map"
+    "main.e34650c8.js.map": "/Ali-Attar/static/js/main.e34650c8.js.map"
   },
   "entrypoints": [
     "static/css/main.d5a94ccf.css",
-    "static/js/main.7be2c25a.js"
+    "static/js/main.e34650c8.js"
   ]
 }
